@@ -8,4 +8,4 @@
 
 #The application is used to manage the Each Events as  per the requirement and avaibility of working staff and also the Date and Time to check weather other event conflict with it or not.
 
-# Then we used testing techniques like Junit, JACOCO to perform testing and then also performed automation Testing using Selinium.
+#Then we used testing techniques like Junit, JACOCO to perform testing and then also performed automation Testing using Selinium.
